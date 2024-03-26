@@ -1,10 +1,46 @@
-# Math formulas
-## Area
-- Circle: S = πR²
-- Rectangle: S = ab
-- Square: S = a²
-
-## Perimeter
-- Circle: P = 2πR
-- Rectangle: P = 2a + 2b
-- Square: P = 4a
+![Урок5РаботаСRelease](https://github.com/kirby1301/geometric_lib/assets/165012104/80441afd-dfae-4bad-9fbf-369a2a88e589)
+![Урок5РаботаСRelease1](https://github.com/kirby1301/geometric_lib/assets/165012104/5e383157-d750-47bb-902c-e8693600c586)
+![Урок5РаботаСRelease2](https://github.com/kirby1301/geometric_lib/assets/165012104/fdc97f15-a0d5-4162-8bc5-a1726efd6ee6)
+![Урок1Установкаgit](https://github.com/kirby1301/geometric_lib/assets/165012104/873123bf-fe2b-4919-b983-12b6316bbae1)
+![Урок1Установкаgit1](https://github.com/kirby1301/geometric_lib/assets/165012104/749c93bf-ee76-4cc4-ae31-9d8ab9398887)
+![Урок1НастройкаGit](https://github.com/kirby1301/geometric_lib/assets/165012104/764797e4-6b9e-43a9-9873-3a9841e4158d)
+![Урок2СозданиеРепазитория](https://github.com/kirby1301/geometric_lib/assets/165012104/8ec042df-f663-4ea9-8306-f614cde0834a)
+![Урок2СозданиеРепазитория1](https://github.com/kirby1301/geometric_lib/assets/165012104/c580237a-869e-4c47-92dd-b03bc6e015d3)
+![Урок2Зад2НастройкаПользователяGit](https://github.com/kirby1301/geometric_lib/assets/165012104/db82578f-abde-4fc5-83c1-16a42a9a24eb)
+![Урок2Зад3НастройкаПользователяGit](https://github.com/kirby1301/geometric_lib/assets/165012104/ceb66743-2ca9-4f8d-a289-f2316c023c6c)
+![Урок2Зад3НастройкаПользователяGit1](https://github.com/kirby1301/geometric_lib/assets/165012104/798bd667-680e-402e-86f5-531c19a5c6b4)
+![Урок2Зад4ПервыйКоммит](https://github.com/kirby1301/geometric_lib/assets/165012104/dd4228f3-3ff6-4bcb-b304-c5ee63a42cbb)
+![Урок2Зад4ПервыйКоммит1](https://github.com/kirby1301/geometric_lib/assets/165012104/9648563f-ddc3-43fa-a84c-2fed0044139a)
+![Урок2Зад4ПервыйКоммит2](https://github.com/kirby1301/geometric_lib/assets/165012104/ef3e43be-99ad-4021-9068-05bcf6198d81)
+![Урок2Зад4ПервыйКоммит3](https://github.com/kirby1301/geometric_lib/assets/165012104/73f7c272-2457-4c86-a833-eb78ee016b0b)
+![Урок2Зад4ПервыйКоммит4](https://github.com/kirby1301/geometric_lib/assets/165012104/5f0fea72-35fc-4c0a-9369-ffb67e3dc563)
+![Урок2Зад4СохранениеКоммита](https://github.com/kirby1301/geometric_lib/assets/165012104/eb266efc-bc8b-459e-be68-dc95ab3804d8)
+![Урок2Зад4ПервыйКоммит5](https://github.com/kirby1301/geometric_lib/assets/165012104/d8396042-1e9a-41cd-9724-6f8996f69434)
+![Урок2Зад4ПервыйКоммит6](https://github.com/kirby1301/geometric_lib/assets/165012104/2d798bc2-5586-4cfc-bf45-f0863857ac2d)
+![Урок2Зад5ВторойКоммит](https://github.com/kirby1301/geometric_lib/assets/165012104/db702d99-b5c2-4552-a1ad-c8cf475833d6)
+![Урок2Зад5ВторойКоммит1](https://github.com/kirby1301/geometric_lib/assets/165012104/b0c10619-d0af-43b1-9175-52c603546b51)
+![Урок2Зад6ТретийКоммит](https://github.com/kirby1301/geometric_lib/assets/165012104/56b6a40c-1972-4ce7-9ed2-ae2269103e8b)
+![Урок2Зад6ТретийКоммит1](https://github.com/kirby1301/geometric_lib/assets/165012104/d8a13c8f-b31f-486f-8064-09c686064643)
+![Урок2Зад6ТретийКоммит2](https://github.com/kirby1301/geometric_lib/assets/165012104/1527e72f-09b8-4817-b4ed-c94d5eda5dc2)
+![Урок2Зад6ТретийКоммит3](https://github.com/kirby1301/geometric_lib/assets/165012104/b6eb39bd-b7e5-47ed-8d52-4085ba8799fd)
+![Урок3КлонируемРепазиторий](https://github.com/kirby1301/geometric_lib/assets/165012104/895173c1-5d02-4043-8e2e-d2d725966ba7)
+![Урок3СоздаемНовуюВеткуNew_feature](https://github.com/kirby1301/geometric_lib/assets/165012104/48243b13-2a32-42fc-972d-889c03aa7393)
+![Урок3КоммитДляПрямоугольника](https://github.com/kirby1301/geometric_lib/assets/165012104/e0a05859-3cf2-48ea-8772-b812ab896b46)
+![Урок3КоммитДляТреугольникаИсправляемОшибкуДляПрямоугольника](https://github.com/kirby1301/geometric_lib/assets/165012104/1cc3b4fe-c278-47ef-81b3-6f6c18d41c31)
+![Урок3СтроимГрафыРепазитория](https://github.com/kirby1301/geometric_lib/assets/165012104/9bd9c4af-522c-4299-b6f9-a455aaee8d04)
+![Урок3СмотримИзмененияМеждуСоседнимиКоммитами](https://github.com/kirby1301/geometric_lib/assets/165012104/c48827e3-b734-41b2-afc2-eaec12ad43fa)
+![Урок3УдаляемВетку](https://github.com/kirby1301/geometric_lib/assets/165012104/e3f0f35e-3bc8-4bb8-9f2c-36024ebd0e39)
+![Урок4КлонируемРепазиторийиАктивируемЛокальныеВетки](https://github.com/kirby1301/geometric_lib/assets/165012104/af25ab62-20dc-40f7-919c-4f91a08be1c8)
+![Урок4РаботаСFeatureОткатываемКоммит](https://github.com/kirby1301/geometric_lib/assets/165012104/2f5d8e83-dc66-4bbb-99bc-dfb5ef5c9af7)
+![Урок4РаботаСFeatureОткатываемКоммит1](https://github.com/kirby1301/geometric_lib/assets/165012104/e011890b-8e5b-4c37-bbea-de5c046b3286)
+![Урок4РаботаСDevelopОбъединениеКоммитов](https://github.com/kirby1301/geometric_lib/assets/165012104/a59cbbec-75c2-4e8b-844b-35797393542e)
+![Урок4РаботаСDevelopОбъединениеКоммитов1](https://github.com/kirby1301/geometric_lib/assets/165012104/937c4608-d59b-4a86-ab7d-c8b21c3a9324)
+![Урок4РаботаСDevelopОбъединениеКоммитов2](https://github.com/kirby1301/geometric_lib/assets/165012104/58acb980-70d9-495d-9e99-4579cda0cb62)
+![Урок4РаботаСDevelopОбъединениеКоммитов3](https://github.com/kirby1301/geometric_lib/assets/165012104/9dbd71c1-cc28-4899-a0e9-0d01df5e4b4e)
+![Урок4РаботаeExperimentПереносУдалениеФайлов](https://github.com/kirby1301/geometric_lib/assets/165012104/e2fe2d47-4993-4b6b-8aa4-7f5bcb6a5ecb)
+![Урок4РаботаeExperimentПереносУдалениеФайлов1](https://github.com/kirby1301/geometric_lib/assets/165012104/2ee114a4-a413-4e11-bca9-c6c0de4d86b2)
+![Урок4РаботаeExperimentПереносУдалениеФайлов2](https://github.com/kirby1301/geometric_lib/assets/165012104/df0c33cc-f976-4480-ba42-1532d03dddfb)
+![Урок5КлонируемРепазиторийиАктивируемЛокальныеВетки](https://github.com/kirby1301/geometric_lib/assets/165012104/8a0cc0a7-da44-44dd-8f32-defdeb9c8ccf)
+![Урок5РаботаСDevelop](https://github.com/kirby1301/geometric_lib/assets/165012104/d29d8819-6d25-46c6-8f93-5e169a1a3b0f)
+![Урок5РаботаСDevelop1](https://github.com/kirby1301/geometric_lib/assets/165012104/2112a2bd-6d3a-4ea5-b811-0f6bdc2492f1)
+![Урок5РаботаСDevelop2](https://github.com/kirby1301/geometric_lib/assets/165012104/3f64acf3-8f1d-4909-ade3-54e2fc0fe32a)
