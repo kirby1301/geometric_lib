@@ -44,3 +44,5 @@
 ![Урок5РаботаСDevelop](https://github.com/kirby1301/geometric_lib/assets/165012104/d29d8819-6d25-46c6-8f93-5e169a1a3b0f)
 ![Урок5РаботаСDevelop1](https://github.com/kirby1301/geometric_lib/assets/165012104/2112a2bd-6d3a-4ea5-b811-0f6bdc2492f1)
 ![Урок5РаботаСDevelop2](https://github.com/kirby1301/geometric_lib/assets/165012104/3f64acf3-8f1d-4909-ade3-54e2fc0fe32a)
+![Урок6](https://github.com/kirby1301/geometric_lib/assets/165012104/734afd64-321a-416a-861b-901a17d3e126)
+![Урок6(1)](https://github.com/kirby1301/geometric_lib/assets/165012104/f8ed8bbf-51ba-4496-b5ad-58cd29b7adaf)
